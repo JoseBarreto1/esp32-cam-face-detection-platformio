@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../home/pessoal/Downloads/teste"
+		},
+		{
+			"name": "esp32-primeiro-projeto",
+			"path": "../../../../../home/pessoal/Documentos/PlatformIO/Projects/esp32-primeiro-projeto"
+		},
+		{
+			"name": "projeto-tcc-software",
+			"path": "../../../../../home/pessoal/Documentos/PlatformIO/Projects/projeto-tcc-software"
+		}
+	],
+	"settings": {}
+}
